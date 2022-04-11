@@ -74,4 +74,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ZambosSs1/kii-repo:latest
+          tags: zambosss1/kiii-demo:latest
